@@ -3,280 +3,474 @@
     "id": "p001",
     "title": "Cozy Boho Living Room",
     "description": "Warm neutral tones with layered rugs, rattan furniture, and lots of plants for a relaxed boho vibe.",
-    "tags": ["living room", "boho", "cozy", "interior design", "neutral"],
+    "tags": [
+      "living room",
+      "boho",
+      "cozy",
+      "interior design",
+      "neutral"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p001.jpg"
+    "image_url": "/images/p001.jpg"
   },
   {
     "id": "p002",
     "title": "Minimalist Scandinavian Bedroom",
     "description": "Clean lines, white walls, wood accents, and simple linen bedding for a calm Scandinavian bedroom.",
-    "tags": ["bedroom", "scandinavian", "minimalist", "interior design"],
+    "tags": [
+      "bedroom",
+      "scandinavian",
+      "minimalist",
+      "interior design"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p002.jpg"
+    "image_url": "/images/p002.jpg"
   },
   {
     "id": "p003",
     "title": "Small Space Reading Nook",
     "description": "A cozy corner with a window seat, throw blankets, and a floor lamp perfect for curling up with a book.",
-    "tags": ["reading nook", "small space", "cozy", "living room"],
+    "tags": [
+      "reading nook",
+      "small space",
+      "cozy",
+      "living room"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p003.jpg"
+    "image_url": "/images/p003.jpg"
   },
   {
     "id": "p004",
     "title": "Modern Farmhouse Kitchen",
     "description": "Shaker cabinets, open shelving, and a large butcher block island bring farmhouse charm to a modern kitchen.",
-    "tags": ["kitchen", "farmhouse", "interior design", "renovation"],
+    "tags": [
+      "kitchen",
+      "farmhouse",
+      "interior design",
+      "renovation"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p004.jpg"
+    "image_url": "/images/p004.jpg"
   },
   {
     "id": "p005",
     "title": "Plant-Filled Sunroom",
     "description": "A bright sunroom packed with houseplants, wicker chairs, and a hammock for relaxing afternoons.",
-    "tags": ["sunroom", "plants", "cozy", "interior design"],
+    "tags": [
+      "sunroom",
+      "plants",
+      "cozy",
+      "interior design"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p005.jpg"
+    "image_url": "/images/p005.jpg"
   },
   {
     "id": "p006",
     "title": "One Pot Creamy Garlic Pasta",
     "description": "Quick weeknight pasta with garlic, parmesan, and cream sauce made entirely in one pot.",
-    "tags": ["pasta", "dinner", "easy recipe", "italian", "one pot"],
+    "tags": [
+      "pasta",
+      "dinner",
+      "easy recipe",
+      "italian",
+      "one pot"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p006.jpg"
+    "image_url": "/images/p006.jpg"
   },
   {
     "id": "p007",
     "title": "Sheet Pan Lemon Herb Chicken",
     "description": "Juicy roasted chicken thighs with potatoes and vegetables, all baked on a single sheet pan.",
-    "tags": ["chicken", "sheet pan", "dinner", "easy recipe"],
+    "tags": [
+      "chicken",
+      "sheet pan",
+      "dinner",
+      "easy recipe"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p007.jpg"
+    "image_url": "/images/p007.jpg"
   },
   {
     "id": "p008",
     "title": "Classic Chocolate Chip Cookies",
     "description": "Soft and chewy chocolate chip cookies with crispy edges, the ultimate comfort dessert.",
-    "tags": ["dessert", "cookies", "baking", "chocolate"],
+    "tags": [
+      "dessert",
+      "cookies",
+      "baking",
+      "chocolate"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p008.jpg"
+    "image_url": "/images/p008.jpg"
   },
   {
     "id": "p009",
     "title": "Fresh Summer Caprese Salad",
     "description": "Ripe tomatoes, fresh mozzarella, and basil drizzled with balsamic glaze for a light summer salad.",
-    "tags": ["salad", "summer", "vegetarian", "healthy", "italian"],
+    "tags": [
+      "salad",
+      "summer",
+      "vegetarian",
+      "healthy",
+      "italian"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p009.jpg"
+    "image_url": "/images/p009.jpg"
   },
   {
     "id": "p010",
     "title": "Spicy Thai Basil Stir Fry",
     "description": "Ground pork stir-fried with Thai basil, chilies, and garlic served over steamed rice.",
-    "tags": ["stir fry", "thai", "spicy", "dinner", "asian"],
+    "tags": [
+      "stir fry",
+      "thai",
+      "spicy",
+      "dinner",
+      "asian"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p010.jpg"
+    "image_url": "/images/p010.jpg"
   },
   {
     "id": "p011",
     "title": "Homemade Sourdough Bread",
     "description": "Step-by-step guide to baking a crusty artisan sourdough loaf with an open airy crumb.",
-    "tags": ["bread", "baking", "sourdough", "homemade"],
+    "tags": [
+      "bread",
+      "baking",
+      "sourdough",
+      "homemade"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p011.jpg"
+    "image_url": "/images/p011.jpg"
   },
   {
     "id": "p012",
     "title": "Backpacking Through Patagonia",
     "description": "A two-week itinerary hiking Torres del Paine with tips on gear, campsites, and weather.",
-    "tags": ["travel", "hiking", "patagonia", "backpacking", "adventure"],
+    "tags": [
+      "travel",
+      "hiking",
+      "patagonia",
+      "backpacking",
+      "adventure"
+    ],
     "board": "Travel",
-    "image_url": "https://example.com/images/p012.jpg"
+    "image_url": "/images/p012.jpg"
   },
   {
     "id": "p013",
     "title": "Best Beaches in Bali",
     "description": "A roundup of Bali's most stunning beaches for surfing, sunbathing, and snorkeling.",
-    "tags": ["travel", "bali", "beach", "island", "vacation"],
+    "tags": [
+      "travel",
+      "bali",
+      "beach",
+      "island",
+      "vacation"
+    ],
     "board": "Travel",
-    "image_url": "https://example.com/images/p013.jpg"
+    "image_url": "/images/p013.jpg"
   },
   {
     "id": "p014",
     "title": "Road Trip Along the California Coast",
     "description": "Scenic stops along Highway 1 from San Francisco to Big Sur with photo spot recommendations.",
-    "tags": ["travel", "road trip", "california", "coast", "scenic"],
+    "tags": [
+      "travel",
+      "road trip",
+      "california",
+      "coast",
+      "scenic"
+    ],
     "board": "Travel",
-    "image_url": "https://example.com/images/p014.jpg"
+    "image_url": "/images/p014.jpg"
   },
   {
     "id": "p015",
     "title": "Exploring Kyoto's Ancient Temples",
     "description": "A guide to Kyoto's most beautiful temples, shrines, and bamboo groves.",
-    "tags": ["travel", "japan", "kyoto", "culture", "temples"],
+    "tags": [
+      "travel",
+      "japan",
+      "kyoto",
+      "culture",
+      "temples"
+    ],
     "board": "Travel",
-    "image_url": "https://example.com/images/p015.jpg"
+    "image_url": "/images/p015.jpg"
   },
   {
     "id": "p016",
     "title": "Packing Light for Europe",
     "description": "How to fit three weeks of travel essentials into a single carry-on backpack.",
-    "tags": ["travel", "packing", "europe", "minimalist", "tips"],
+    "tags": [
+      "travel",
+      "packing",
+      "europe",
+      "minimalist",
+      "tips"
+    ],
     "board": "Travel",
-    "image_url": "https://example.com/images/p016.jpg"
+    "image_url": "/images/p016.jpg"
   },
   {
     "id": "p017",
     "title": "30-Minute Full Body HIIT Workout",
     "description": "No-equipment HIIT circuit combining cardio and strength moves for a full body burn.",
-    "tags": ["fitness", "hiit", "workout", "no equipment", "cardio"],
+    "tags": [
+      "fitness",
+      "hiit",
+      "workout",
+      "no equipment",
+      "cardio"
+    ],
     "board": "Fitness",
-    "image_url": "https://example.com/images/p017.jpg"
+    "image_url": "/images/p017.jpg"
   },
   {
     "id": "p018",
     "title": "Beginner Yoga Flow for Flexibility",
     "description": "A gentle 20-minute yoga sequence designed to improve flexibility and reduce stress.",
-    "tags": ["yoga", "fitness", "flexibility", "beginner", "wellness"],
+    "tags": [
+      "yoga",
+      "fitness",
+      "flexibility",
+      "beginner",
+      "wellness"
+    ],
     "board": "Fitness",
-    "image_url": "https://example.com/images/p018.jpg"
+    "image_url": "/images/p018.jpg"
   },
   {
     "id": "p019",
     "title": "Dumbbell Only Home Workout Plan",
     "description": "A 4-week strength training plan using just a pair of dumbbells for full body results.",
-    "tags": ["fitness", "strength training", "home workout", "dumbbells"],
+    "tags": [
+      "fitness",
+      "strength training",
+      "home workout",
+      "dumbbells"
+    ],
     "board": "Fitness",
-    "image_url": "https://example.com/images/p019.jpg"
+    "image_url": "/images/p019.jpg"
   },
   {
     "id": "p020",
     "title": "Couch to 5K Running Guide",
     "description": "A beginner-friendly running plan to go from zero running to completing a 5K in nine weeks.",
-    "tags": ["fitness", "running", "cardio", "beginner", "5k"],
+    "tags": [
+      "fitness",
+      "running",
+      "cardio",
+      "beginner",
+      "5k"
+    ],
     "board": "Fitness",
-    "image_url": "https://example.com/images/p020.jpg"
+    "image_url": "/images/p020.jpg"
   },
   {
     "id": "p021",
     "title": "Core Strengthening Pilates Routine",
     "description": "Low-impact Pilates exercises targeting core stability and posture improvement.",
-    "tags": ["pilates", "fitness", "core", "low impact", "wellness"],
+    "tags": [
+      "pilates",
+      "fitness",
+      "core",
+      "low impact",
+      "wellness"
+    ],
     "board": "Fitness",
-    "image_url": "https://example.com/images/p021.jpg"
+    "image_url": "/images/p021.jpg"
   },
   {
     "id": "p022",
     "title": "Effortless Streetwear Outfit Ideas",
     "description": "Oversized hoodies, cargo pants, and sneakers combined for a laid-back streetwear look.",
-    "tags": ["fashion", "streetwear", "outfit ideas", "casual"],
+    "tags": [
+      "fashion",
+      "streetwear",
+      "outfit ideas",
+      "casual"
+    ],
     "board": "Fashion",
-    "image_url": "https://example.com/images/p022.jpg"
+    "image_url": "/images/p022.jpg"
   },
   {
     "id": "p023",
     "title": "Capsule Wardrobe for Fall",
     "description": "20 versatile pieces that mix and match into countless fall outfit combinations.",
-    "tags": ["fashion", "capsule wardrobe", "fall", "minimalist style"],
+    "tags": [
+      "fashion",
+      "capsule wardrobe",
+      "fall",
+      "minimalist style"
+    ],
     "board": "Fashion",
-    "image_url": "https://example.com/images/p023.jpg"
+    "image_url": "/images/p023.jpg"
   },
   {
     "id": "p024",
     "title": "Elegant Office Wear Inspiration",
     "description": "Polished blazers, tailored trousers, and neutral tones for a professional office wardrobe.",
-    "tags": ["fashion", "office wear", "business casual", "outfit ideas"],
+    "tags": [
+      "fashion",
+      "office wear",
+      "business casual",
+      "outfit ideas"
+    ],
     "board": "Fashion",
-    "image_url": "https://example.com/images/p024.jpg"
+    "image_url": "/images/p024.jpg"
   },
   {
     "id": "p025",
     "title": "Vintage Denim Styling Tips",
     "description": "How to style vintage denim jackets and jeans for a timeless retro look.",
-    "tags": ["fashion", "vintage", "denim", "retro", "outfit ideas"],
+    "tags": [
+      "fashion",
+      "vintage",
+      "denim",
+      "retro",
+      "outfit ideas"
+    ],
     "board": "Fashion",
-    "image_url": "https://example.com/images/p025.jpg"
+    "image_url": "/images/p025.jpg"
   },
   {
     "id": "p026",
     "title": "Statement Accessories for Any Outfit",
     "description": "Bold earrings, layered necklaces, and chunky rings to elevate a simple outfit.",
-    "tags": ["fashion", "accessories", "jewelry", "style tips"],
+    "tags": [
+      "fashion",
+      "accessories",
+      "jewelry",
+      "style tips"
+    ],
     "board": "Fashion",
-    "image_url": "https://example.com/images/p026.jpg"
+    "image_url": "/images/p026.jpg"
   },
   {
     "id": "p027",
     "title": "DIY Macrame Wall Hanging",
     "description": "Step-by-step tutorial for weaving a bohemian macrame wall hanging with basic knots.",
-    "tags": ["diy", "macrame", "boho", "home decor", "craft"],
+    "tags": [
+      "diy",
+      "macrame",
+      "boho",
+      "home decor",
+      "craft"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p027.jpg"
+    "image_url": "/images/p027.jpg"
   },
   {
     "id": "p028",
     "title": "Gallery Wall Layout Ideas",
     "description": "Creative arrangements for mixing frames, art prints, and photos into a cohesive gallery wall.",
-    "tags": ["gallery wall", "home decor", "art", "interior design"],
+    "tags": [
+      "gallery wall",
+      "home decor",
+      "art",
+      "interior design"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p028.jpg"
+    "image_url": "/images/p028.jpg"
   },
   {
     "id": "p029",
     "title": "Vegan Buddha Bowl Recipe",
     "description": "Roasted vegetables, quinoa, and tahini dressing combined in a nourishing vegan bowl.",
-    "tags": ["vegan", "healthy", "bowl", "recipe", "lunch"],
+    "tags": [
+      "vegan",
+      "healthy",
+      "bowl",
+      "recipe",
+      "lunch"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p029.jpg"
+    "image_url": "/images/p029.jpg"
   },
   {
     "id": "p030",
     "title": "Iceland Ring Road Itinerary",
     "description": "A 10-day self-drive itinerary covering waterfalls, glaciers, and hot springs around Iceland.",
-    "tags": ["travel", "iceland", "road trip", "nature", "adventure"],
+    "tags": [
+      "travel",
+      "iceland",
+      "road trip",
+      "nature",
+      "adventure"
+    ],
     "board": "Travel",
-    "image_url": "https://example.com/images/p030.jpg"
+    "image_url": "/images/p030.jpg"
   },
   {
     "id": "p031",
     "title": "Resistance Band Leg Workout",
     "description": "Targeted glute and leg exercises using resistance bands for at-home strength training.",
-    "tags": ["fitness", "resistance bands", "legs", "glutes", "home workout"],
+    "tags": [
+      "fitness",
+      "resistance bands",
+      "legs",
+      "glutes",
+      "home workout"
+    ],
     "board": "Fitness",
-    "image_url": "https://example.com/images/p031.jpg"
+    "image_url": "/images/p031.jpg"
   },
   {
     "id": "p032",
     "title": "Monochrome Outfit Formula",
     "description": "How to build head-to-toe monochrome outfits using texture and tone variation.",
-    "tags": ["fashion", "monochrome", "outfit ideas", "style tips"],
+    "tags": [
+      "fashion",
+      "monochrome",
+      "outfit ideas",
+      "style tips"
+    ],
     "board": "Fashion",
-    "image_url": "https://example.com/images/p032.jpg"
+    "image_url": "/images/p032.jpg"
   },
   {
     "id": "p033",
     "title": "Rustic Wood Accent Wall",
     "description": "Reclaimed wood planks installed as an accent wall to add texture and warmth to a room.",
-    "tags": ["accent wall", "rustic", "home decor", "diy"],
+    "tags": [
+      "accent wall",
+      "rustic",
+      "home decor",
+      "diy"
+    ],
     "board": "Home Decor",
-    "image_url": "https://example.com/images/p033.jpg"
+    "image_url": "/images/p033.jpg"
   },
   {
     "id": "p034",
     "title": "Easy Weeknight Beef Tacos",
     "description": "Seasoned ground beef, fresh toppings, and warm tortillas for a fast family taco night.",
-    "tags": ["tacos", "mexican", "easy recipe", "dinner", "beef"],
+    "tags": [
+      "tacos",
+      "mexican",
+      "easy recipe",
+      "dinner",
+      "beef"
+    ],
     "board": "Recipes",
-    "image_url": "https://example.com/images/p034.jpg"
+    "image_url": "/images/p034.jpg"
   },
   {
     "id": "p035",
     "title": "Solo Travel Tips for First-Timers",
     "description": "Practical advice on safety, budgeting, and meeting people while traveling alone.",
-    "tags": ["travel", "solo travel", "tips", "adventure"],
+    "tags": [
+      "travel",
+      "solo travel",
+      "tips",
+      "adventure"
+    ],
     "board": "Travel",
-    "image_url": "https://example.com/images/p035.jpg"
+    "image_url": "/images/p035.jpg"
   }
 ]

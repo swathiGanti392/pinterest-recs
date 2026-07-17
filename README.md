@@ -20,6 +20,7 @@ Public deployment (Render/Fly.io/Railway) TBD.
   - `page_content`: `"{title}. {description}. Tags: {tags}"`
   - `metadata`: `{id, title, board, image_url, tags}`
 - Documents are embedded with `HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")` and stored in a persisted Chroma collection (`chroma_db/`). Model weights download once from HuggingFace on first run (~90MB), then run locally — no API key needed.
+- Pin images are real photos self-hosted in `data/images/` (sourced from Lorem Picsum, seeded per pin id for reproducibility), served by the API itself via a static file mount at `/images`.
 - Two recommendation modes:
   - **By pin**: look up a stored pin and find similar pins (excluding itself).
   - **By query**: embed free-text and find the most similar pins.
@@ -73,7 +74,7 @@ Response shape:
       "pin_id": "p003",
       "title": "Small Space Reading Nook",
       "board": "Home Decor",
-      "image_url": "https://example.com/images/p003.jpg",
+      "image_url": "/images/p003.jpg",
       "score": 0.42
     }
   ]
@@ -91,7 +92,9 @@ pytest tests/
 ## Project structure
 
 ```
-├── data/pins.json          # mock pin dataset
+├── data/
+│   ├── pins.json           # mock pin dataset
+│   └── images/             # real self-hosted photos, one per pin (served at /images)
 ├── app/
 │   ├── models.py           # Pydantic schemas
 │   ├── vectorstore.py      # build/load Chroma index

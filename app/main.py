@@ -1,13 +1,17 @@
 from contextlib import asynccontextmanager
+from pathlib import Path
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.staticfiles import StaticFiles
 
 from app.models import RecommendResponse
 from app.recommender import PinNotFoundError, PinRecommender
 from app.vectorstore import load_vectorstore
 
 load_dotenv()
+
+IMAGES_DIR = Path(__file__).resolve().parent.parent / "data" / "images"
 
 recommender: PinRecommender | None = None
 
@@ -21,6 +25,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(title="Pinterest-style Content Recommender", lifespan=lifespan)
+app.mount("/images", StaticFiles(directory=IMAGES_DIR), name="images")
 
 
 @app.get("/recommend/pin/{pin_id}", response_model=RecommendResponse)
