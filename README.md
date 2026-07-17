@@ -4,6 +4,16 @@ Content-based recommendation system that mimics Pinterest "pins" (image + title 
 
 This is a standalone project with a mock dataset — no Pinterest API, no OpenAI billing, no credentials required. Embeddings run fully on-device via HuggingFace `sentence-transformers/all-MiniLM-L6-v2`.
 
+## Live demo
+
+Not deployed publicly yet. Run it locally (see **Setup** below) — once running:
+
+- Interactive API docs: http://localhost:8000/docs
+- `curl "http://localhost:8000/recommend/pin/p001?k=5"`
+- `curl "http://localhost:8000/recommend/query?q=cozy%20living%20room&k=5"`
+
+Public deployment (Render/Fly.io/Railway) TBD.
+
 ## How it works
 
 - Each pin (`data/pins.json`) is converted into a LangChain `Document`:
